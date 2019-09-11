@@ -10,6 +10,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (= 2.0.2)
   puma (~> 4.1)
   rack (~> 2.0)
 
