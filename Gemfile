@@ -9,4 +9,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem 'bundler', '2.0.2'
 gem "rack", "~> 2.0"
 
-gem "puma", "~> 4.1"
+gem "puma", "~> 4.3"
